@@ -1,0 +1,93 @@
+.web{
+    border-color: #ffd700;
+    border-style: solid;
+    border-width: 3px;
+    height: 20vh;
+    padding: 50px;
+    background-color:black;
+    text-align:center;
+    margin: 10px;
+
+    h1{
+      color: #ffd700;
+      text-shadow: 0cqmax;
+      display:table-caption;
+      border-color:rgb(102, 184, 225);
+      margin-left: 400px;
+      height: 50px;
+      border-style: solid;
+      width: 500px;
+      text-align: center;
+    }
+    h3{
+        color: greenyellow;
+        text-shadow: 0cqh;
+        border-color:aqua;
+        border-style: solid;
+        height: 40px;
+        width: 500px;
+        margin-left: 400px;
+        text-align: center;
+    }
+}
+.table{
+    text-align: center;
+    color: chartreuse;
+}
+body{
+    background-color: rgb(4, 4, 4);
+}
+ul{
+    color: rgb(251, 252, 252);
+    list-style-type: armenian;
+}
+ol{
+    color: cyan;
+    list-style-type: 1 ;
+}
+.info{
+    color: white;
+}
+.gemini{
+    color: lawngreen;
+}
+.youchat{
+    color: chartreuse;
+}
+.deepai{
+    color: aqua;
+}
+.label{
+    color: coral;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: darkturquoise;
+    justify-content: space-between;
+
+}
+.navbar-left{
+    padding: 20px;
+}
+.navbar-right{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.a{
+    padding: 10px;
+    border: 3px solid orange;
+    margin: 10px;
+    border-style:dashed;
+}
+.box{
+    position:sticky;
+    border: 20px solid white;
+    margin: 5px;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    align-items: right;
+}
